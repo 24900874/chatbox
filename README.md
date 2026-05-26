@@ -528,25 +528,25 @@ if __name__ == "__main__":
 
 ## Chatbot Interface
 
-![alt text](image.png)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/af55f9d6-6518-4ae8-b264-2722bea1535a" />
+
 
 ---
 
 ## Document Upload Module
 
-![alt text](image-1.png)_
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7dd59ca6-acef-494f-8d1c-c302edfec691" />
+
 
 ---
 
 ## AI Response Output
 
-![alt text](image-2.png)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e43f6d99-1ebe-4476-a46a-016506dcb4de" />
+
 ---
 
-## Admin Dashboard
 
-![alt text](image-3.png)
----
 
 
 
